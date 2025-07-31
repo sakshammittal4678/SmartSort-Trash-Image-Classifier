@@ -13,7 +13,7 @@ This project demonstrates **image classification** for trash segregation, levera
 ## Dataset
 
 The project uses this publicly available dataset:
-- ![Recyclable and Household Waste Classification on Kaggle](https://www.kaggle.com/datasets/alistairking/recyclable-and-household-waste-classification)
+- Recyclable and Household Waste Classification on Kaggle : https://www.kaggle.com/datasets/alistairking/recyclable-and-household-waste-classification
 - The dataset includes various trash types, such as:
   - Glass containers
   - Plastic bags
@@ -93,3 +93,4 @@ The classification report below provides details on **precision, recall, f1-scor
 **Overall Recall:** 0.9052  
 **Overall F1 Score:** 0.9055  
 
+[1]: https://www.kaggle.com/datasets/alistairking/recyclable-and-household-waste-classification
