@@ -13,7 +13,7 @@ This project demonstrates **image classification** for trash segregation, levera
 ## Dataset
 
 The project uses this publicly available dataset:
-- [Recyclable and Household Waste Classification on Kaggle][1]
+- ![Recyclable and Household Waste Classification on Kaggle](https://www.kaggle.com/datasets/alistairking/recyclable-and-household-waste-classification)
 - The dataset includes various trash types, such as:
   - Glass containers
   - Plastic bags
