@@ -13,7 +13,7 @@ This project demonstrates **image classification** for trash segregation, levera
 ## Dataset
 
 The project uses this publicly available dataset:
-- Recyclable and Household Waste Classification on Kaggle : https://www.kaggle.com/datasets/alistairking/recyclable-and-household-waste-classification
+- [Recyclable and Household Waste Classification on Kaggle][1]
 - The dataset includes various trash types, such as:
    - Aerosol cans
    - Aluminum food cans
@@ -45,11 +45,18 @@ The project uses this publicly available dataset:
    - Styrofoam cups
    - Styrofoam food containers
    - Tea bags
+- The dataset contains a total of `15000` images which were split into three sets:
+   - Training set `9000` images : used for training the classifier
+   - Validation set `3000` images : used for evaluating while training
+   - Testing set `3000` images : used for final evaluation
 
 ## Project Structure
 
 - `trash-classification.ipynb`: Main notebook containing all the code, training, validation, and evaluation.
 - Images directory: Sample images for each trash class.
+   - Each class has two subdirectories
+      - Default : Contains studio style images
+      - Real world : Contain real world images of the specific class
 
 ## Usage
 
