@@ -82,9 +82,8 @@ The classification report below provides details on **precision, recall, f1-scor
 | 27    | 0.97      | 0.95   | 0.96     | 120     |
 | 28    | 0.94      | 0.96   | 0.95     | 101     |
 | 29    | 0.97      | 0.97   | 0.97     | 104     |
-
-
-| **Accuracy**    |           |        | **0.91**     | 3000    |
+|       |           |        |          |         |
+| **Accuracy**    |           |        | **0.91** | 3000    |
 | **Macro Avg**   | 0.91      | 0.91   | 0.91     | 3000    |
 | **Weighted Avg**| 0.91      | 0.91   | 0.91     | 3000    |
 
