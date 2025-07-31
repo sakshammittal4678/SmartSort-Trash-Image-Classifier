@@ -15,13 +15,36 @@ This project demonstrates **image classification** for trash segregation, levera
 The project uses this publicly available dataset:
 - Recyclable and Household Waste Classification on Kaggle : https://www.kaggle.com/datasets/alistairking/recyclable-and-household-waste-classification
 - The dataset includes various trash types, such as:
-  - Glass containers
-  - Plastic bags
-  - Aluminum cans
-  - Office paper
-  - Clothing
-  - Food containers
-  - ...and many more
+- Aerosol cans
+- Aluminum food cans
+- Aluminum soda cans
+- Cardboard boxes
+- Cardboard packaging
+- Clothing
+- Coffee grounds
+- Disposable plastic cutlery
+- Eggshells
+- Food waste
+- Glass beverage bottles
+- Glass cosmetic containers
+- Glass food jars
+- Magazines
+- Newspaper
+- Office paper
+- Paper cups
+- Plastic cup lids
+- Plastic detergent bottles
+- Plastic food containers
+- Plastic shopping bags
+- Plastic soda bottles
+- Plastic straws
+- Plastic trash bags
+- Plastic water bottles
+- Shoes
+- Steel food cans
+- Styrofoam cups
+- Styrofoam food containers
+- Tea bags
 
 ## Project Structure
 
